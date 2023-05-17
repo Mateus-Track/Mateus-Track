@@ -6,6 +6,6 @@
 
 🕹Trying to develop games in Arduino 
 
-If you want to contact me: mateus.trackson@gmail.com
+🔍If you want to contact me: mateus.trackson@gmail.com
 
 
